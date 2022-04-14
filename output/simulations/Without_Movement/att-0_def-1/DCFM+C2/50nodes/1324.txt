@@ -1,0 +1,75 @@
+@@   New Simulation   @@
+Seed RngRun: 1324
+Attack: OFF
+Defence: ON
+Nodes who are required to advertise fictive: 6, 7, 9, 10, 12, 14, 17, 19, 21, 22, 24, 25, 27, 29, 31, 33, 34, 35, 36, 37, 39, 40, 41, 43, 45, 46, 47, 49, 
+Fictives req.: 28
+Nodes who declared fictive: 6, 7, 9, 10, 12, 14, 17, 19, 21, 22, 24, 25, 27, 29, 31, 33, 34, 35, 36, 37, 39, 40, 41, 43, 45, 46, 47, 49, 
+Total nodes declaring fictives: 28
+Total MPRs chosen: 229
+Total Neighbors: 296
+Avg MPR fraction: 0.773649
+Total MPRs: 46
+MPR sub-network nodes: 
+10.0.0.1, 10.0.0.2, 10.0.0.3, 10.0.0.4, 10.0.0.5, 10.0.0.7, 10.0.0.8, 10.0.0.9, 10.0.0.10, 10.0.0.11, 10.0.0.12, 10.0.0.13, 10.0.0.14, 10.0.0.15, 10.0.0.17, 10.0.0.18, 10.0.0.20, 10.0.0.22, 10.0.0.23, 10.0.0.24, 10.0.0.25, 10.0.0.26, 10.0.0.27, 10.0.0.28, 10.0.0.29, 10.0.0.30, 10.0.0.31, 10.0.0.32, 10.0.0.33, 10.0.0.34, 10.0.0.35, 10.0.0.36, 10.0.0.37, 10.0.0.38, 10.0.0.39, 10.0.0.40, 10.0.0.41, 10.0.0.42, 10.0.0.43, 10.0.0.44, 10.0.0.45, 10.0.0.46, 10.0.0.47, 10.0.0.48, 10.0.0.49, 10.0.0.50, 
+1Hop from victim: 
+10.0.0.4, 10.0.0.22, 10.0.0.29, 10.0.0.33, 10.0.0.36, 10.0.0.43, 
+2Hops from victim: 
+10.0.0.4, 10.0.0.6, 10.0.0.10, 10.0.0.12, 10.0.0.15, 10.0.0.22, 10.0.0.26, 10.0.0.27, 10.0.0.28, 10.0.0.29, 10.0.0.30, 10.0.0.32, 10.0.0.33, 10.0.0.36, 10.0.0.37, 10.0.0.41, 10.0.0.42, 10.0.0.43, 10.0.0.44, 10.0.0.49, 10.1.0.22, 10.1.0.36, 
+Risky nodes: 19
+TC Level: 5.14 
+lsr: 6.48
+Packets: 18
+Nodes detected as part of c6: 
+Num. of nodes detected as part of c6: 0
+Node id: 0, nodes in routing table: 49.   MPRs(6): 10.0.0.4, 10.0.0.22, 10.0.0.29, 10.0.0.33, 10.0.0.36, 10.0.0.43, 
+Node id: 1, nodes in routing table: 49.   MPRs(4): 10.0.0.11, 10.0.0.34, 10.0.0.47, 10.0.0.49, 
+Node id: 2, nodes in routing table: 49.   MPRs(5): 10.0.0.12, 10.0.0.17, 10.0.0.25, 10.0.0.27, 10.0.0.28, 
+Node id: 3, nodes in routing table: 49.   MPRs(7): 10.0.0.1, 10.0.0.10, 10.0.0.15, 10.0.0.22, 10.0.0.26, 10.0.0.41, 10.0.0.44, 
+Node id: 4, nodes in routing table: 49.   MPRs(7): 10.0.0.9, 10.0.0.13, 10.0.0.14, 10.0.0.20, 10.0.0.40, 10.0.0.48, 10.0.0.50, 
+Node id: 5, nodes in routing table: 49.   MPRs(7): 10.0.0.8, 10.0.0.14, 10.0.0.23, 10.0.0.29, 10.0.0.30, 10.0.0.37, 10.0.0.42, 
+Node id: 6, nodes in routing table: 49.   MPRs(3): 10.0.0.17, 10.0.0.24, 10.0.0.25, 
+Node id: 7, nodes in routing table: 49.   MPRs(3): 10.0.0.14, 10.0.0.23, 10.0.0.42, 
+Node id: 8, nodes in routing table: 49.   MPRs(6): 10.0.0.5, 10.0.0.13, 10.0.0.35, 10.0.0.38, 10.0.0.40, 10.0.0.48, 
+Node id: 9, nodes in routing table: 49.   MPRs(5): 10.0.0.15, 10.0.0.22, 10.0.0.26, 10.0.0.41, 10.0.0.44, 
+Node id: 10, nodes in routing table: 49.   MPRs(3): 10.0.0.2, 10.0.0.32, 10.0.0.34, 
+Node id: 11, nodes in routing table: 49.   MPRs(4): 10.0.0.3, 10.0.0.28, 10.0.0.33, 10.0.0.46, 
+Node id: 12, nodes in routing table: 49.   MPRs(5): 10.0.0.5, 10.0.0.31, 10.0.0.35, 10.0.0.40, 10.0.0.48, 
+Node id: 13, nodes in routing table: 49.   MPRs(5): 10.0.0.5, 10.0.0.8, 10.0.0.23, 10.0.0.30, 10.0.0.37, 
+Node id: 14, nodes in routing table: 49.   MPRs(4): 10.0.0.10, 10.0.0.22, 10.0.0.26, 10.0.0.44, 
+Node id: 15, nodes in routing table: 49.   MPRs(4): 10.0.0.11, 10.0.0.34, 10.0.0.47, 10.0.0.49, 
+Node id: 16, nodes in routing table: 49.   MPRs(5): 10.0.0.3, 10.0.0.7, 10.0.0.25, 10.0.0.31, 10.0.0.38, 
+Node id: 17, nodes in routing table: 49.   MPRs(2): 10.0.0.20, 10.0.0.40, 
+Node id: 18, nodes in routing table: 49.   MPRs(9): 10.0.0.5, 10.0.0.9, 10.0.0.13, 10.0.0.18, 10.0.0.20, 10.0.0.35, 10.0.0.40, 10.0.0.48, 10.0.0.50, 
+Node id: 19, nodes in routing table: 49.   MPRs(5): 10.0.0.5, 10.0.0.18, 10.0.0.40, 10.0.0.48, 10.0.0.50, 
+Node id: 20, nodes in routing table: 49.   MPRs(4): 10.0.0.11, 10.0.0.34, 10.0.0.47, 10.0.0.49, 
+Node id: 21, nodes in routing table: 49.   MPRs(5): 10.0.0.1, 10.0.0.10, 10.0.0.15, 10.0.0.26, 10.0.0.44, 
+Node id: 22, nodes in routing table: 49.   MPRs(5): 10.0.0.8, 10.0.0.14, 10.0.0.30, 10.0.0.37, 10.0.0.42, 
+Node id: 23, nodes in routing table: 49.   MPRs(4): 10.0.0.7, 10.0.0.25, 10.0.0.38, 10.0.0.45, 
+Node id: 24, nodes in routing table: 49.   MPRs(3): 10.0.0.3, 10.0.0.7, 10.0.0.24, 
+Node id: 25, nodes in routing table: 49.   MPRs(5): 10.0.0.10, 10.0.0.15, 10.0.0.22, 10.0.0.41, 10.0.0.44, 
+Node id: 26, nodes in routing table: 49.   MPRs(5): 10.0.0.3, 10.0.0.12, 10.0.0.28, 10.0.0.33, 10.0.0.43, 
+Node id: 27, nodes in routing table: 49.   MPRs(3): 10.0.0.3, 10.0.0.12, 10.0.0.33, 
+Node id: 28, nodes in routing table: 49.   MPRs(6): 10.0.0.1, 10.0.0.30, 10.0.0.33, 10.0.0.36, 10.0.0.37, 10.0.0.42, 
+Node id: 29, nodes in routing table: 49.   MPRs(5): 10.0.0.14, 10.0.0.23, 10.0.0.29, 10.0.0.37, 10.0.0.42, 
+Node id: 30, nodes in routing table: 49.   MPRs(3): 10.0.0.13, 10.0.0.17, 10.0.0.38, 
+Node id: 31, nodes in routing table: 49.   MPRs(2): 10.0.0.11, 10.0.0.43, 
+Node id: 32, nodes in routing table: 49.   MPRs(6): 10.0.0.1, 10.0.0.12, 10.0.0.28, 10.0.0.29, 10.0.0.36, 10.0.0.43, 
+Node id: 33, nodes in routing table: 49.   MPRs(3): 10.0.0.2, 10.0.0.11, 10.0.0.49, 
+Node id: 34, nodes in routing table: 49.   MPRs(5): 10.0.0.13, 10.0.0.39, 10.0.0.40, 10.0.0.45, 10.0.0.48, 
+Node id: 35, nodes in routing table: 49.   MPRs(4): 10.0.0.1, 10.0.0.29, 10.0.0.33, 10.0.0.43, 
+Node id: 36, nodes in routing table: 49.   MPRs(5): 10.0.0.14, 10.0.0.23, 10.0.0.29, 10.0.0.30, 10.0.0.42, 
+Node id: 37, nodes in routing table: 49.   MPRs(2): 10.0.0.9, 10.0.0.17, 
+Node id: 38, nodes in routing table: 49.   MPRs(9): 10.0.0.5, 10.0.0.9, 10.0.0.13, 10.0.0.18, 10.0.0.20, 10.0.0.35, 10.0.0.40, 10.0.0.48, 10.0.0.50, 
+Node id: 39, nodes in routing table: 49.   MPRs(7): 10.0.0.5, 10.0.0.9, 10.0.0.13, 10.0.0.18, 10.0.0.20, 10.0.0.35, 10.0.0.48, 
+Node id: 40, nodes in routing table: 49.   MPRs(4): 10.0.0.4, 10.0.0.10, 10.0.0.26, 10.0.0.44, 
+Node id: 41, nodes in routing table: 49.   MPRs(5): 10.0.0.8, 10.0.0.23, 10.0.0.29, 10.0.0.30, 10.0.0.37, 
+Node id: 42, nodes in routing table: 49.   MPRs(5): 10.0.0.1, 10.0.0.27, 10.0.0.32, 10.0.0.36, 10.0.0.49, 
+Node id: 43, nodes in routing table: 49.   MPRs(5): 10.0.0.10, 10.0.0.15, 10.0.0.22, 10.0.0.26, 10.0.0.41, 
+Node id: 44, nodes in routing table: 49.   MPRs(4): 10.0.0.13, 10.0.0.24, 10.0.0.35, 10.0.0.38, 
+Node id: 45, nodes in routing table: 49.   MPRs(1): 10.0.0.12, 
+Node id: 46, nodes in routing table: 49.   MPRs(1): 10.0.0.2, 
+Node id: 47, nodes in routing table: 49.   MPRs(6): 10.0.0.5, 10.0.0.9, 10.0.0.13, 10.0.0.20, 10.0.0.35, 10.0.0.40, 
+Node id: 48, nodes in routing table: 49.   MPRs(5): 10.0.0.2, 10.0.0.11, 10.0.0.32, 10.0.0.34, 10.0.0.43, 
+Node id: 49, nodes in routing table: 49.   MPRs(3): 10.0.0.5, 10.0.0.20, 10.0.0.39, 
+Routing Percentage: 1

@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.19
+
+Name: libns3-lte
+Description: ns-3 module ns3-lte
+Version: 3.19
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.19-lte-debug
+Cflags: -I${includedir}
+Requires: libns3.19-core-debug libns3.19-network-debug libns3.19-spectrum-debug libns3.19-stats-debug libns3.19-buildings-debug libns3.19-virtual-net-device-debug libns3.19-point-to-point-debug libns3.19-applications-debug libns3.19-internet-debug libns3.19-csma-debug

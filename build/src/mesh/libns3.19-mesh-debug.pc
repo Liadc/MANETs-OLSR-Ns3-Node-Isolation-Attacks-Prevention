@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.19
+
+Name: libns3-mesh
+Description: ns-3 module ns3-mesh
+Version: 3.19
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.19-mesh-debug
+Cflags: -I${includedir}
+Requires: libns3.19-internet-debug libns3.19-wifi-debug libns3.19-bridge-debug libns3.19-applications-debug

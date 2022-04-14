@@ -1,0 +1,5 @@
+@@   New Simulation   @@
+Seed RngRun: 2063
+Attack: OFF
+Defence: ON
+*** Sending node of udp packets is a neighbor to victim. Terminated.

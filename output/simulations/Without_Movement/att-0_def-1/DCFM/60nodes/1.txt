@@ -1,0 +1,4 @@
+@@   New Simulation   @@
+Seed RngRun: 1
+Attack: OFF
+Defence: ON
